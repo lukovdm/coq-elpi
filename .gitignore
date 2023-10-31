@@ -47,3 +47,5 @@ META
 
 apps/coercion/src/coq_elpi_coercion_hook.ml
 .filestoinstall
+
+.direnv
